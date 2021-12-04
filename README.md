@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**ebrudiler/EbruDiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am both a Master of Science student at [Dokuz Eylul University](https://global.deu.edu.tr/) and a Software QA Engineer at [Veripark](https://www.veripark.com).
 
-Here are some ideas to get you started:
+I have developed the [Performance of Python programs](https://summerofhpc.prace-ri.eu/performance-of-python-programs-on-new-hpc-architectures/) project on [High Performance Computing](https://summerofhpc.prace-ri.eu/faq-about-hpc-prace/) at [EPCC](https://www.epcc.ed.ac.uk/) in 2018. If you have any questions about the program, I would be happy to answer them. :wink:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### For connection with me :call_me_hand:
+
+[![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/ebru-diler)
+
+
+
+
